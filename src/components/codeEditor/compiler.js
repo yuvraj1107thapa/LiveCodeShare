@@ -59,8 +59,7 @@ const Compiler = ({ code, codeChannel, output, setOutput, outputChannel, screenS
                     <button onClick={submitCode} className="compile-btn"><FaPlay className='w-[0.5rem] mr-[5px]' />Run</button>
                 </nav>
                 <MainEditor language={language} codeChannel={codeChannel} code={code} setCodeToServer={setCodeToServer} />
-
-                {/* <h4>Output:</h4> */}
+                
                 <div className='output-wrapper'>
                     <CodeEditor
                         value={output}
