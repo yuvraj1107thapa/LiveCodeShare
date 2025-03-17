@@ -1,20 +1,29 @@
+<h1 align="center"><strong>LIVECODESHARE</strong></h1>
+
 <p align="center">
-  <strong>
-    <h1 align="center">LIVECODESHARE</h3>
-  </strong>
-  <p align="center">
-    Collaborative Coding and Live Video Chat for Developers.
-    <br />
-  </p>
+  Collaborative Coding and Live Video Chat for Developers.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/141231fe-ffc0-4652-8402-a403ab4c7042" alt="LiveCodeShare Preview" />
+</p>
+
+<p align="center">
+  <a href="https://livecodeshare.netlify.app/" target="_blank" 
+     style="display: inline-block; background-color: #0366d6; color: white; 
+     padding: 12px 24px; font-size: 18px; font-weight: bold; border-radius: 6px; 
+     text-decoration: none;">
+    Visit LiveCodeShare
+  </a>
 </p>
 
 ### About The Project
 
-LIVECODESHARE. is a full-stack application built with React.JS, MongoDB, Firebase, TailwindCSS, and WebRTC. This is a social networking app for software developers that also has a collaborative code space. In this app, aspiring developers are able to network with experienced developers to improve their coding skills. The collaborative code space has group live chat messaging, live group video calls, screen sharing, and a collaborative code editor that supports C++, JavaScript, Python, and Java. 
+LIVECODESHARE. is a full-stack application built with React.js, WebRTC, TailwindCSS, Express.js, Node.js, Firebase and MongoDB. This is a social networking app for software developers that also has a collaborative code space. In this app, aspiring developers are able to network with experienced developers to improve their coding skills. The collaborative code space has group live chat messaging, live group video calls, screen sharing, and a collaborative code editor that supports  C++, Java, Python, JavaScript, Go, Rust and TypeScript. 
 
 
 # Built With
-LIVECODESHARE. is built on React.JS, Node.JS, MongoDB, WebRTC, Firebase, and TailwindCSS. 
+LIVECODESHARE. is built on React.js, WebRTC, TailwindCSS, Express.js, Node.js, Firebase and MongoDB.
 
 Written in Javascript.
 
@@ -62,14 +71,12 @@ LIVECODESHARE was created with the mobile-first design approach. This means that
 <a name='CreateRoomPage'></a>
 ## Create Room Page
 
-The Code Space comes with an animated toggleable feature that allows users to switch between the create a room form and join a room form. 
-
-Next to each form there is a carousel with indicators that allows users to easily navigate through a collection of images and descriptions on how to use teh code space.
+The Code Space comes with an animated toggleable feature that allows users to switch between the create a room form and join a room form. Next to each form there is a carousel with indicators that allows users to easily navigate through a collection of images and descriptions on how to use teh code space.
 
 <a name='CollaborativeCodeEditor'></a>
 ## Collaborative Code Editor
 
-LIVECODESHARE'S Code Space comes with a built-in collaborative code editor that supports JavaScript, Java, and Python. Just like in Google Docs any code that is written and executed in the code editor will be seen by all the users in the code space. This allows users to work together with their colleagues on projects, assignments, or homework. 
+LIVECODESHARE'S Code Space comes with a built-in collaborative code editor that supports C++, Java, Python, JavaScript, Go, Rust and TypeScript. Just like in Google Docs any code that is written and executed in the code editor will be seen by all the users in the code space. This allows users to work together with their colleagues on projects, assignments, or homework. 
 
 <a name='LiveGroupCall'></a>
 ## Live Group Call
